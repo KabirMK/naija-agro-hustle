@@ -1,0 +1,19 @@
+{
+  "name": "Naija Agro-Hustle",
+  "short_name": "Agro-Hustle",
+  "description": "Nigerian farming adventure: walk your farm, village and six cities, survive FX shocks, floods, agberos and loan sharks, and become an Agro-Tycoon.",
+  "id": "./",
+  "start_url": "./?source=pwa",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#10140e",
+  "theme_color": "#10140e",
+  "lang": "en-NG",
+  "categories": ["games", "education", "simulation"],
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
